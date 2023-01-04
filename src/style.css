@@ -1,0 +1,9 @@
+.btn-redux {
+  background: "blue";
+  color: "whitesmoke";
+  padding: "12px";
+  margin: "12px";
+  cursor: "pointer";
+  border-color: "blue";
+  border-radius: "6%";
+}
